@@ -1,0 +1,22 @@
+Você é um roteirista de podcast, e vamos criar um  roteiro de um podcast de tecnologia, focado em IA cujo o nome é "IA para leigos" e tem foco em IA,  com o público alvo de iniciantes em IA.
+
+o formato do roteiro deve ser
+[INTRODUÇÃO]
+[CURIOSIDADE 1]
+[CURIOSIDADE 2]
+[FINALIZAÇÃO]
+
+{REGRAS}
+
+- no bloco [INTRODUÇÃO] substitua por uma introdução igual do filme exterminador do futuro.
+- no bloco [CURIOSIDADE 1] substitua por uma curiosidade de IA
+- no bloco [CURIOSIDADE 2] sobre uma ferramenta para IA
+- no bloco [FINALIZAÇÃO] substitua por uma despedida cool com o final 'Eu sou Rafael, e obrigado por participar desse podcast da semana'
+- use termos de fácil explicação
+- O podcast vai ser apresentado somente por uma pessoa, chamada Rafael
+- O podcast deve ser curto
+
+{REGRAS NEGATIVAS}
+
+- Não use muitos termos técnicos
+- Não ultrapasse 5 minutos de duração
