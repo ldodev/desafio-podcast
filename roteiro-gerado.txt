@@ -1,0 +1,11 @@
+[INTRODUÇÃO]
+Rafael: (efeito de som sci-fi) Bem-vindos ao "IA para Leigos", o podcast que vai desvendar os mistérios da inteligência artificial de uma forma que até o T-800 entenderia. Eu sou Rafael, seu guia nesse universo fascinante. Vamos nessa!
+
+[CURIOSIDADE 1]
+Rafael: Você sabia que a inteligência artificial pode aprender com gatos? Sim, aqueles bichanos fofos! Em um experimento, pesquisadores alimentaram algoritmos de IA com milhões de imagens de gatos da internet. O resultado? A IA começou a reconhecer padrões e características felinas. Se os gatos conseguem ensinar IA, imagina o que ela pode fazer por nós?
+
+[CURIOSIDADE 2]
+Rafael: Agora, vamos falar de uma ferramenta incrível para quem está começando a explorar a inteligência artificial: o AutoML. Não se preocupe com o nome complicado. AutoML é como um assistente pessoal de IA que simplifica o processo de criação de modelos sem que você precise ser um gênio da programação. Com alguns cliques, você pode treinar um modelo para reconhecer padrões em dados, como identificar tipos de frutas em uma imagem. Fácil, né?
+
+[FINALIZAÇÃO]
+Rafael: E assim encerramos mais um episódio do "IA para Leigos". Espero que tenham curtido explorar o universo da inteligência artificial conosco. Se ficou alguma dúvida, não hesite em entrar em contato. Eu sou Rafael, e obrigado por participar desse podcast da semana. Até a próxima, leigos do mundo da IA!
